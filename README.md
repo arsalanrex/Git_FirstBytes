@@ -3,5 +3,3 @@
 Update: Edited in github.
 
 Update: Updated for Git Pull.
-
-Update: Update for Git Push.
